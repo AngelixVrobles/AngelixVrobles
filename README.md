@@ -23,6 +23,22 @@ Soy **Angelix Vásquez R.**, desarrollador **full-stack** enfocado en construir 
 
 ---
 
+## ⭐ Proyecto estrella — VAULT
+
+<p align="center">
+  <a href="https://github.com/AngelixVrobles/Finanzas-showcase">
+    <img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/hero.png" alt="VAULT — Financial Command Center" width="100%" />
+  </a>
+</p>
+
+**VAULT — Financial Command Center** es una app de **escritorio** (Tauri 2 · React 19 · Rust) para gestión patrimonial integral: portafolio de inversiones (EE.UU. y RD), certificados, bonos, inmuebles, operaciones agrícolas y flujo de caja. Datos **100 % locales** en SQLite — privado por diseño, con motor de alertas y notificaciones nativas.
+
+<p align="center">
+  <a href="https://github.com/AngelixVrobles/Finanzas-showcase"><img src="https://img.shields.io/badge/Ver_la_vitrina_del_proyecto-0d1b2a?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 ## 🛠️ Stack
 
 **Lenguajes**
@@ -62,14 +78,15 @@ Soy **Angelix Vásquez R.**, desarrollador **full-stack** enfocado en construir 
 
 ## 🚀 Proyectos destacados
 
-> Vitrinas de proyectos reales. El código de los productos de cliente es privado; aquí muestro qué construí, con capturas y stack.
+> Proyectos reales. La mayoría son **vitrinas** (el código de cliente es privado); **JK APEX** es de código **público** con sitio en vivo.
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| ⚖️ **[Sistema Legal](https://github.com/AngelixVrobles/sistema-legal-showcase)** | Plataforma para bufetes: biblioteca jurídica + expedientes | Next.js · Prisma · PostgreSQL |
-| 📂 **[Expedientes Legales](https://github.com/AngelixVrobles/expedientes-polanco-showcase)** | Gestión de expedientes white-label, multi-cliente | Next.js · Prisma · Docker |
-| 📊 **[VAULT — Financial Command Center](https://github.com/AngelixVrobles/finanzasj-showcase)** | App de escritorio de gestión patrimonial | Tauri · React · Rust |
-| 🚐 **[AlexYah Transportation](https://github.com/AngelixVrobles/alexyah-showcase)** | Sitio + reclutamiento de conductores + panel admin | Node.js · Express |
+| 📊 **[VAULT — Financial Command Center](https://github.com/AngelixVrobles/Finanzas-showcase)** | App de escritorio de gestión patrimonial | Tauri · React · Rust |
+| 🏢 **[JK APEX Supply Group](https://github.com/AngelixVrobles/JKAPEX)** · [🌐 en vivo](https://apexsupplygroupcom.com) | Sitio corporativo B2B para proveedor gov/comercial — **código público** | HTML · CSS · JS |
+| ⚖️ **[Sistema Legal](https://github.com/AngelixVrobles/Sistema-Legal-showcase)** | Plataforma para bufetes: biblioteca jurídica + expedientes | Next.js · Prisma · PostgreSQL |
+| 📂 **[Expedientes Legales](https://github.com/AngelixVrobles/Expedientes-showcase)** | Gestión de expedientes white-label, multi-cliente | Next.js · Prisma · Docker |
+| 🚐 **[AlexYah Transportation](https://github.com/AngelixVrobles/AlexYah-showcase)** | Sitio + reclutamiento de conductores + panel admin | Node.js · Express |
 | 🎮 **[RegJugadores](https://github.com/AngelixVrobles/RegJugadores)** | App Android (jugadores, partidas, logros + Tic-Tac-Toe) | Kotlin · Compose · Room |
 
 ---
@@ -104,9 +121,6 @@ Soy **Angelix Vásquez R.**, desarrollador **full-stack** enfocado en construir 
 
 <p align="center">
   <a href="mailto:Angelixvrobles1234@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AngelixVrobles"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<!-- 👆 Actualiza el enlace de LinkedIn con tu URL real -->
 
