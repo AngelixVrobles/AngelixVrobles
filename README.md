@@ -1,126 +1,146 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Angelix Vásquez — Desarrollador Full-Stack" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F9BFF&center=true&vCenter=true&width=720&lines=Desarrollador+Full-Stack;Web+%C2%B7+M%C3%B3vil+%C2%B7+Escritorio;Del+modelo+de+datos+al+despliegue;Software+a+medida+para+clientes+reales" alt="typing" />
-</p>
+<img src="assets/hero.svg?v=2" alt="Angelix Vásquez R. — Desarrollador Full-Stack · Web · Móvil · Escritorio. Seis proyectos reales en producción para clientes en legal-tech y fintech." width="100%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelixVrobles&label=Visitas%20al%20perfil&color=7f5af0&style=flat" alt="profile views" />
-</p>
+</div>
 
----
+<br>
 
-## 👋 Sobre mí
+Construyo software de producto en tres frentes — **web** (React / Next.js), **móvil** (Android · Kotlin · Jetpack Compose) y **escritorio** (Tauri · Rust) — y lo llevo hasta producción. Mi trabajo vive en manos de clientes reales en **legal-tech** y **fintech**, no en demos: gestión patrimonial, expedientes jurídicos y plataformas B2B que se usan todos los días.
 
-Soy **Angelix Vásquez R.**, desarrollador **full-stack** enfocado en construir productos completos y reales — no demos. Llevo proyectos de principio a fin: **arquitectura → backend → frontend → despliegue → mantenimiento**.
+```console
+angelix@dev ~/perfil $ whoami
+Angelix Vásquez R. — Full-Stack · Web · Móvil · Escritorio
 
-- 🧩 Construyo en 3 frentes: **web** (React/Next.js), **móvil** (Android/Kotlin) y **escritorio** (Tauri/Rust).
-- ⚖️ Experiencia en **legal-tech** y 💸 **fintech**, con software en producción para clientes.
-- 🌱 Siempre aprendiendo y refinando arquitecturas limpias (MVVM, capas, tipado estricto).
-- 📫 Escríbeme: **Angelixvrobles1234@outlook.com**
+angelix@dev ~/perfil $ cat foco.txt
+Producto local-first y privado por diseño · del modelo de datos al release.
 
----
+angelix@dev ~/perfil $ ls proyectos/ --en-produccion
+VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  RegJugadores
+```
 
-## ⭐ Proyecto estrella — VAULT
+<br>
 
-<p align="center">
-  <a href="https://github.com/AngelixVrobles/Finanzas-showcase">
-    <img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/hero.png" alt="VAULT — Financial Command Center" width="100%" />
-  </a>
-</p>
+<img src="assets/rule.svg" alt="" width="100%">
 
-**VAULT — Financial Command Center** es una app de **escritorio** (Tauri 2 · React 19 · Rust) para gestión patrimonial integral: portafolio de inversiones (EE.UU. y RD), certificados, bonos, inmuebles, operaciones agrícolas y flujo de caja. Datos **100 % locales** en SQLite — privado por diseño, con motor de alertas y notificaciones nativas.
+## Proyectos
 
-<p align="center">
-  <a href="https://github.com/AngelixVrobles/Finanzas-showcase"><img src="https://img.shields.io/badge/Ver_la_vitrina_del_proyecto-0d1b2a?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<a href="https://github.com/AngelixVrobles/Finanzas-showcase">
+<img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/hero.png" alt="VAULT — Financial Command Center" width="100%">
+</a>
+</td>
+<td width="42%" valign="top">
 
----
+### VAULT — Financial Command Center
 
-## 🛠️ Stack
+Aplicación de **escritorio** para gestión patrimonial integral: inversiones (EE.UU. y RD), certificados, bonos, inmuebles, fincas/agrícola y flujo de caja en un solo lugar.
 
-**Lenguajes**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+**Por qué importa** — Datos 100 % locales en SQLite, privados por diseño, con alertas y notificaciones nativas. Sin nube, sin terceros: el patrimonio del cliente nunca sale de su máquina.
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<kbd>Tauri 2</kbd> <kbd>React 19</kbd> <kbd>Rust</kbd> <kbd>TypeScript</kbd> <kbd>SQLite</kbd> <kbd>Tailwind v4</kbd>
 
-**Backend & Datos**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+Código privado (cliente) · **[Vitrina pública →](https://github.com/AngelixVrobles/Finanzas-showcase)**
 
-**Plataformas & Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td valign="top">
 
-## 🚀 Proyectos destacados
+### JK APEX Supply Group&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="Sitio en vivo">
 
-> Proyectos reales. La mayoría son **vitrinas** (el código de cliente es privado); **JK APEX** es de código **público** con sitio en vivo.
+Sitio corporativo B2B para un proveedor gov/comercial de suministros. HTML/CSS/JS artesanal, con design tokens, accesibilidad, SEO y dominio propio.
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| 📊 **[VAULT — Financial Command Center](https://github.com/AngelixVrobles/Finanzas-showcase)** | App de escritorio de gestión patrimonial | Tauri · React · Rust |
-| 🏢 **[JK APEX Supply Group](https://github.com/AngelixVrobles/JKAPEX)** · [🌐 en vivo](https://apexsupplygroupcom.com) | Sitio corporativo B2B para proveedor gov/comercial — **código público** | HTML · CSS · JS |
-| ⚖️ **[Sistema Legal](https://github.com/AngelixVrobles/Sistema-Legal-showcase)** | Plataforma para bufetes: biblioteca jurídica + expedientes | Next.js · Prisma · PostgreSQL |
-| 📂 **[Expedientes Legales](https://github.com/AngelixVrobles/Expedientes-showcase)** | Gestión de expedientes white-label, multi-cliente | Next.js · Prisma · Docker |
-| 🚐 **[AlexYah Transportation](https://github.com/AngelixVrobles/AlexYah-showcase)** | Sitio + reclutamiento de conductores + panel admin | Node.js · Express |
-| 🎮 **[RegJugadores](https://github.com/AngelixVrobles/RegJugadores)** | App Android (jugadores, partidas, logros + Tic-Tac-Toe) | Kotlin · Compose · Room |
+**Por qué importa** — El único proyecto **con código público y sitio navegable**: la prueba más directa de cómo trabajo, de extremo a extremo.
 
----
+<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>Design tokens</kbd> <kbd>SEO</kbd>
 
-## 🧠 Lenguajes más usados
+**[Ver en vivo → apexsupplygroupcom.com](https://apexsupplygroupcom.com)** &nbsp;·&nbsp; [Código →](https://github.com/AngelixVrobles/JKAPEX)
 
-> Distribución real considerando todos mis proyectos (incluidos los privados).
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-68%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-20%25-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-4%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-2%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 📊 Estadísticas
+### Sistema Legal
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AngelixVrobles&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+Plataforma para bufetes: biblioteca jurídica + gestión de expedientes en una sola herramienta.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelixVrobles&theme=tokyonight&hide_border=true" />
-</p>
+**Por qué importa** — Centraliza el conocimiento y los casos de un despacho, reduciendo el trabajo manual de búsqueda y archivo.
 
-<sub>ℹ️ Las tarjetas automáticas solo cuentan repos <b>públicos</b>; la mayor parte de mi trabajo está en repos privados de clientes.</sub>
+<kbd>Next.js</kbd> <kbd>Prisma</kbd> <kbd>PostgreSQL</kbd>
 
----
+[Showcase →](https://github.com/AngelixVrobles/Sistema-Legal-showcase)
 
-## 🤝 Conecta
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="mailto:Angelixvrobles1234@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AngelixVrobles"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### Expedientes Legales
 
+Gestión de expedientes **white-label** para múltiples clientes desde una misma base.
+
+**Por qué importa** — Una arquitectura, varios despachos: cada cliente con su marca y sus datos aislados, desplegable con Docker.
+
+<kbd>Next.js</kbd> <kbd>Prisma</kbd> <kbd>Docker</kbd>
+
+[Showcase →](https://github.com/AngelixVrobles/Expedientes-showcase)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AlexYah Transportation
+
+Sitio corporativo + reclutamiento de conductores con panel de administración.
+
+**Por qué importa** — Resuelve un flujo de negocio completo: captar conductores y gestionarlos desde un mismo backend.
+
+<kbd>Node.js</kbd> <kbd>Express</kbd>
+
+[Showcase →](https://github.com/AngelixVrobles/AlexYah-showcase)
+
+</td>
+<td width="50%" valign="top">
+
+### RegJugadores
+
+App Android nativa: registro de jugadores, partidas y logros, con un Tic-Tac-Toe integrado.
+
+**Por qué importa** — Móvil nativo de punta a punta con persistencia local; el mismo rigor de producto, en Android.
+
+<kbd>Kotlin</kbd> <kbd>Jetpack Compose</kbd> <kbd>Room</kbd>
+
+[Showcase →](https://github.com/AngelixVrobles/RegJugadores)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="assets/rule.svg" alt="" width="100%">
+
+## Stack
+
+<div align="center">
+
+<img src="assets/stack.svg?v=2" alt="Stack por frente. Web: React, Next.js, TypeScript, Prisma, PostgreSQL, Tailwind. Móvil: Kotlin, Jetpack Compose, Room. Escritorio: Tauri 2, Rust, SQLite, local-first." width="100%">
+
+</div>
+
+<br>
+
+## Contacto
+
+**[github.com/AngelixVrobles](https://github.com/AngelixVrobles)** &nbsp;·&nbsp; [Angelixvrobles1234@outlook.com](mailto:Angelixvrobles1234@outlook.com)
+
+<sub>Disponible para proyectos en web, móvil y escritorio — con foco en producto que llega a producción.</sub>

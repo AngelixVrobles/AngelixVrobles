@@ -1,0 +1,64 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack por frente. Web: React, Next.js, TypeScript, Prisma, PostgreSQL, Tailwind. Movil: Kotlin, Jetpack Compose, Room. Escritorio: Tauri, Rust, SQLite, local-first.">
+  <title>Stack — Web · Movil · Escritorio</title>
+  <defs>
+    <linearGradient id="sfield" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#122438"/>
+    </linearGradient>
+    <clipPath id="scard"><rect width="1200" height="240" rx="12"/></clipPath>
+    <style>
+      .h{ font-family:-apple-system,'Segoe UI',system-ui,'Helvetica Neue',sans-serif; font-weight:700; letter-spacing:-0.2px; }
+      .m{ font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace; letter-spacing:0.3px; }
+      .k{ font-family:ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace; letter-spacing:0.4px; }
+      .col{ animation:rise .8s cubic-bezier(.22,1,.36,1) both; }
+      .a{ animation-delay:.05s } .b{ animation-delay:.18s } .c{ animation-delay:.31s }
+      .bar{ transform-box:fill-box; transform-origin:bottom; animation:grow .7s cubic-bezier(.22,1,.36,1) both; }
+      .ba{ animation-delay:.20s } .bb{ animation-delay:.33s } .bc{ animation-delay:.46s }
+      @keyframes rise{ from{ transform:translateY(12px) } to{ transform:translateY(0) } }
+      @keyframes grow{ from{ transform:scaleY(.2) } to{ transform:scaleY(1) } }
+      @media (prefers-reduced-motion: reduce){
+        .col,.bar{ animation:none !important; transform:none !important; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#scard)">
+    <rect width="1200" height="240" fill="url(#sfield)"/>
+    <g stroke="#16314e" stroke-width="1" opacity="0.4">
+      <line x1="400" y1="32" x2="400" y2="208"/>
+      <line x1="800" y1="32" x2="800" y2="208"/>
+    </g>
+
+    <g class="col a">
+      <rect class="bar ba" x="48" y="52" width="4" height="36" rx="2" fill="#0055a5"/>
+      <text class="m" x="68" y="68" fill="#5e86b5" font-size="13" letter-spacing="2">01</text>
+      <text class="h" x="68" y="92" fill="#f4f6f8" font-size="22">Web</text>
+      <text class="k" x="68" y="128" fill="#9bb6d6" font-size="14">React</text>
+      <text class="k" x="68" y="152" fill="#9bb6d6" font-size="14">Next.js</text>
+      <text class="k" x="68" y="176" fill="#9bb6d6" font-size="14">TypeScript &#183; Prisma</text>
+      <text class="k" x="68" y="200" fill="#7f93a8" font-size="14">PostgreSQL &#183; Tailwind</text>
+    </g>
+
+    <g class="col b">
+      <rect class="bar bb" x="448" y="52" width="4" height="36" rx="2" fill="#c79a3a"/>
+      <text class="m" x="468" y="68" fill="#5e86b5" font-size="13" letter-spacing="2">02</text>
+      <text class="h" x="468" y="92" fill="#f4f6f8" font-size="22">M&#243;vil</text>
+      <text class="k" x="468" y="128" fill="#9bb6d6" font-size="14">Kotlin</text>
+      <text class="k" x="468" y="152" fill="#9bb6d6" font-size="14">Jetpack Compose</text>
+      <text class="k" x="468" y="176" fill="#9bb6d6" font-size="14">Room</text>
+      <text class="k" x="468" y="200" fill="#7f93a8" font-size="14">Android nativo</text>
+    </g>
+
+    <g class="col c">
+      <rect class="bar bc" x="848" y="52" width="4" height="36" rx="2" fill="#1f8f5f"/>
+      <text class="m" x="868" y="68" fill="#5e86b5" font-size="13" letter-spacing="2">03</text>
+      <text class="h" x="868" y="92" fill="#f4f6f8" font-size="22">Escritorio</text>
+      <text class="k" x="868" y="128" fill="#9bb6d6" font-size="14">Tauri 2</text>
+      <text class="k" x="868" y="152" fill="#9bb6d6" font-size="14">Rust</text>
+      <text class="k" x="868" y="176" fill="#9bb6d6" font-size="14">SQLite</text>
+      <text class="k" x="868" y="200" fill="#7f93a8" font-size="14">local-first</text>
+    </g>
+
+    <rect width="1199" height="239" x="0.5" y="0.5" rx="12" fill="none" stroke="#1d3a5a" stroke-width="1" opacity="0.6"/>
+  </g>
+</svg>
