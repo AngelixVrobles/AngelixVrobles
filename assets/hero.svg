@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Angelix Vasquez R. — Desarrollador Full-Stack: web, movil y escritorio. 6 proyectos reales en produccion para clientes en legal-tech y fintech.">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Angelix Vasquez R. — Desarrollador Full-Stack: web, movil y escritorio. 7 proyectos reales en produccion para clientes en legal-tech, fintech y agro.">
   <title>Angelix Vasquez R. — Desarrollador Full-Stack</title>
   <defs>
     <linearGradient id="field" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -67,7 +67,7 @@
       <text class="role" x="358" y="186" fill="#5e86b5" font-size="19">&#183;  Web &#183; M&#243;vil &#183; Escritorio</text>
     </g>
 
-    <text class="meta rise d4" x="66" y="222" fill="#7f93a8" font-size="14.5">Software en producci&#243;n para clientes en legal-tech y fintech.</text>
+    <text class="meta rise d4" x="66" y="222" fill="#7f93a8" font-size="14.5">Software en producci&#243;n para clientes en legal-tech, fintech y agro.</text>
 
     <g transform="translate(66 252)">
       <g class="chip c1"><rect x="0" y="0" width="92" height="30" rx="8" fill="#0f2438" stroke="#1d3a5a"/><text class="pill" x="46" y="20" text-anchor="middle" fill="#9bb6d6" font-size="12.5">React 19</text></g>
@@ -77,7 +77,7 @@
     </g>
 
     <g class="num">
-      <text class="big" x="978" y="116" fill="#f4f6f8" font-size="74">6</text>
+      <text class="big" x="978" y="116" fill="#f4f6f8" font-size="74">7</text>
       <text class="meta" x="1026" y="92" fill="#9bb6d6" font-size="14.5">proyectos</text>
       <text class="meta" x="1026" y="112" fill="#9bb6d6" font-size="14.5">reales</text>
       <text class="meta" x="978" y="146" fill="#c79a3a" font-size="12.5" letter-spacing="1.5">EN PRODUCCI&#211;N</text>
