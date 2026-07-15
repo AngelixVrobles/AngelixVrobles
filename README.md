@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=2" alt="Angelix Vásquez R. — Desarrollador Full-Stack · Web · Móvil · Escritorio. Seis proyectos reales en producción para clientes en legal-tech y fintech." width="100%">
+<img src="assets/hero.svg?v=3" alt="Angelix Vásquez R. — Desarrollador Full-Stack · Web · Móvil · Escritorio. Siete proyectos reales en producción para clientes en legal-tech, fintech y agro." width="100%">
 
 </div>
 
 <br>
 
-Construyo software de producto en tres frentes — **web** (React / Next.js), **móvil** (Android · Kotlin · Jetpack Compose) y **escritorio** (Tauri · Rust) — y lo llevo hasta producción. Mi trabajo vive en manos de clientes reales en **legal-tech** y **fintech**, no en demos: gestión patrimonial, expedientes jurídicos y plataformas B2B que se usan todos los días.
+Construyo software de producto en tres frentes — **web** (React / Next.js), **móvil** (Android · Kotlin · Jetpack Compose) y **escritorio** (Tauri · Rust) — y lo llevo hasta producción. Mi trabajo vive en manos de clientes reales en **legal-tech**, **fintech** y **agro**, no en demos: gestión patrimonial, expedientes jurídicos, plataformas B2B y gestión avícola que se usan todos los días.
 
 ```console
 angelix@dev ~/perfil $ whoami
@@ -16,7 +16,7 @@ angelix@dev ~/perfil $ cat foco.txt
 Producto local-first y privado por diseño · del modelo de datos al release.
 
 angelix@dev ~/perfil $ ls proyectos/ --en-produccion
-VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  RegJugadores
+VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  AviControl  RegJugadores
 ```
 
 <br>
@@ -50,17 +50,30 @@ Código privado (cliente) · **[Vitrina pública →](https://github.com/Angelix
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### JK APEX Supply Group&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="Sitio en vivo">
 
 Sitio corporativo B2B para un proveedor gov/comercial de suministros. HTML/CSS/JS artesanal, con design tokens, accesibilidad, SEO y dominio propio.
 
-**Por qué importa** — El único proyecto **con código público y sitio navegable**: la prueba más directa de cómo trabajo, de extremo a extremo.
+**Por qué importa** — Código público y sitio navegable en dominio propio: la prueba más directa de cómo trabajo, de extremo a extremo.
 
 <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>Design tokens</kbd> <kbd>SEO</kbd>
 
 **[Ver en vivo → apexsupplygroupcom.com](https://apexsupplygroupcom.com)** &nbsp;·&nbsp; [Código →](https://github.com/AngelixVrobles/JKAPEX)
+
+</td>
+<td width="50%" valign="top">
+
+### AviControl&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="App en vivo">
+
+PWA **local-first** de gestión avícola: lotes de engorde y ponedoras, conversión alimenticia, % de postura, curvas contra el estándar de la raza, alertas y proyección de venta.
+
+**Por qué importa** — Código público y app instalable que funciona 100 % sin internet: los datos viven en el teléfono del productor.
+
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Dexie</kbd> <kbd>PWA</kbd> <kbd>Tailwind</kbd>
+
+**[Probar en vivo → avi-control.vercel.app](https://avi-control.vercel.app)** &nbsp;·&nbsp; [Código →](https://github.com/AngelixVrobles/AviControl)
 
 </td>
 </tr>
@@ -119,7 +132,7 @@ App Android nativa: registro de jugadores, partidas y logros, con un Tic-Tac-Toe
 
 <kbd>Kotlin</kbd> <kbd>Jetpack Compose</kbd> <kbd>Room</kbd>
 
-[Showcase →](https://github.com/AngelixVrobles/RegJugadores)
+[Código →](https://github.com/AngelixVrobles/RegJugadores)
 
 </td>
 </tr>
