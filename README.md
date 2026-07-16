@@ -27,7 +27,7 @@ VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  AviControl  RegJugadores
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 <a href="https://github.com/AngelixVrobles/Finanzas-showcase">
 <img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/hero.png" alt="VAULT — Financial Command Center" width="100%">
 </a>
