@@ -154,6 +154,6 @@ App Android nativa: registro de jugadores, partidas y logros, con un Tic-Tac-Toe
 
 ## Contacto
 
-**[github.com/AngelixVrobles](https://github.com/AngelixVrobles)** &nbsp;·&nbsp; [Angelixvrobles1234@outlook.com](mailto:Angelixvrobles1234@outlook.com)
+**[github.com/AngelixVrobles](https://github.com/AngelixVrobles)**
 
 <sub>Disponible para proyectos en web, móvil y escritorio — con foco en producto que llega a producción.</sub>
