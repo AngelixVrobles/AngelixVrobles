@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=3" alt="Angelix Vásquez R. — Desarrollador Full-Stack · Web · Móvil · Escritorio. Siete proyectos reales en producción para clientes en legal-tech, fintech y agro." width="100%">
+<img src="assets/hero.svg?v=4" alt="Angelix Vásquez R. — Desarrollador Full-Stack · Web · Móvil · Escritorio. Siete proyectos reales en producción para clientes en legal-tech, fintech, agro y construcción." width="100%">
 
 </div>
 
 <br>
 
-Construyo software de producto en tres frentes — **web** (React / Next.js), **móvil** (Android · Kotlin · Jetpack Compose) y **escritorio** (Tauri · Rust) — y lo llevo hasta producción. Mi trabajo vive en manos de clientes reales en **legal-tech**, **fintech** y **agro**, no en demos: gestión patrimonial, expedientes jurídicos, plataformas B2B y gestión avícola que se usan todos los días.
+Construyo software de producto en tres frentes — **web** (React / Next.js), **móvil** (Android · Kotlin · Jetpack Compose) y **escritorio** (Tauri · Rust) — y lo llevo hasta producción. Mi trabajo vive en manos de clientes reales en **legal-tech**, **fintech**, **agro** y **construcción**, no en demos: gestión patrimonial, expedientes jurídicos, compras de obra, plataformas B2B y gestión avícola que se usan todos los días.
 
 ```console
 angelix@dev ~/perfil $ whoami
@@ -16,7 +16,7 @@ angelix@dev ~/perfil $ cat foco.txt
 Producto local-first y privado por diseño · del modelo de datos al release.
 
 angelix@dev ~/perfil $ ls proyectos/ --en-produccion
-VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  AviControl  RegJugadores
+VAULT  AviControl  Facturas  JK-APEX  AlexYah  Sistema-Legal  Expedientes
 ```
 
 <br>
@@ -27,12 +27,9 @@ VAULT  JK-APEX  Sistema-Legal  Expedientes  AlexYah  AviControl  RegJugadores
 
 <table width="100%">
 <tr>
-<td width="58%" valign="middle">
-<a href="https://github.com/AngelixVrobles/Finanzas-showcase">
-<img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/hero.png" alt="VAULT — Financial Command Center" width="100%">
-</a>
-</td>
-<td width="42%" valign="top">
+<td valign="top">
+
+<a href="https://github.com/AngelixVrobles/Finanzas-showcase"><img src="https://raw.githubusercontent.com/AngelixVrobles/Finanzas-showcase/main/screenshots/dashboard.png" alt="VAULT — panel patrimonial con portafolio, renta fija, flujo de intereses y alertas" width="100%"></a>
 
 ### VAULT — Financial Command Center
 
@@ -42,13 +39,41 @@ Aplicación de **escritorio** para gestión patrimonial integral: inversiones (E
 
 <kbd>Tauri 2</kbd> <kbd>React 19</kbd> <kbd>Rust</kbd> <kbd>TypeScript</kbd> <kbd>SQLite</kbd> <kbd>Tailwind v4</kbd>
 
-Código privado (cliente) · **[Vitrina pública →](https://github.com/AngelixVrobles/Finanzas-showcase)**
+Código privado (cliente) · **[Vitrina pública&nbsp;→](https://github.com/AngelixVrobles/Finanzas-showcase)**
 
 </td>
 </tr>
 </table>
 
 <table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### AviControl&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="App en vivo">
+
+PWA **local-first** de gestión avícola: lotes de engorde y ponedoras, conversión alimenticia, % de postura, curvas contra el estándar de la raza, alertas y proyección de venta.
+
+**Por qué importa** — Código público y app instalable que funciona 100 % sin internet: los datos viven en el teléfono del productor.
+
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Dexie</kbd> <kbd>PWA</kbd> <kbd>Tailwind</kbd>
+
+**[Probar en vivo → avi-control.vercel.app](https://avi-control.vercel.app)** &nbsp;·&nbsp; [Código&nbsp;→](https://github.com/AngelixVrobles/AviControl)
+
+</td>
+<td width="50%" valign="top">
+
+### Facturas de Proyectos&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="App en vivo">
+
+PWA **local-first** para las compras de una constructora: órdenes de compra, facturas por obra, conduces y pagos con su PDF y su Excel. Lee el QR de la factura electrónica de la DGII.
+
+**Por qué importa** — Saca del papel y del WhatsApp toda la cadena de compras de una obra, cruza orden, conduce y factura antes de pagar, y funciona sin internet.
+
+<kbd>JavaScript</kbd> <kbd>IndexedDB</kbd> <kbd>Supabase</kbd> <kbd>Claude API</kbd> <kbd>Playwright</kbd>
+
+**[Probar en vivo → angelixvrobles.github.io/Facturas](https://angelixvrobles.github.io/Facturas/)** &nbsp;·&nbsp; [Código&nbsp;→](https://github.com/AngelixVrobles/Facturas)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -60,26 +85,23 @@ Sitio corporativo B2B para un proveedor gov/comercial de suministros. HTML/CSS/J
 
 <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>Design tokens</kbd> <kbd>SEO</kbd>
 
-**[Ver en vivo → apexsupplygroupcom.com](https://apexsupplygroupcom.com)** &nbsp;·&nbsp; [Código →](https://github.com/AngelixVrobles/JKAPEX)
+**[Ver en vivo → apexsupplygroupcom.com](https://apexsupplygroupcom.com)** &nbsp;·&nbsp; [Código&nbsp;→](https://github.com/AngelixVrobles/JKAPEX)
 
 </td>
 <td width="50%" valign="top">
 
-### AviControl&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="App en vivo">
+### AlexYah Transportation&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="Sitio en vivo">
 
-PWA **local-first** de gestión avícola: lotes de engorde y ponedoras, conversión alimenticia, % de postura, curvas contra el estándar de la raza, alertas y proyección de venta.
+Plataforma de reclutamiento de conductores para transporte escolar en EE.UU.: sitio corporativo, embudo con carga de documentos, ATS por etapas y alertas de cumplimiento.
 
-**Por qué importa** — Código público y app instalable que funciona 100 % sin internet: los datos viven en el teléfono del productor.
+**Por qué importa** — Resuelve un flujo de negocio completo, de la postulación a la contratación, con los 15 documentos de cada conductor bajo control.
 
-<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Dexie</kbd> <kbd>PWA</kbd> <kbd>Tailwind</kbd>
+<kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>JWT</kbd>
 
-**[Probar en vivo → avi-control.vercel.app](https://avi-control.vercel.app)** &nbsp;·&nbsp; [Código →](https://github.com/AngelixVrobles/AviControl)
+**[Ver en vivo → alexyah.com](https://www.alexyah.com)** &nbsp;·&nbsp; [Showcase&nbsp;→](https://github.com/AngelixVrobles/AlexYah-showcase)
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,7 +113,7 @@ Plataforma para bufetes: biblioteca jurídica + gestión de expedientes en una s
 
 <kbd>Next.js</kbd> <kbd>Prisma</kbd> <kbd>PostgreSQL</kbd>
 
-[Showcase →](https://github.com/AngelixVrobles/Sistema-Legal-showcase)
+[Showcase&nbsp;→](https://github.com/AngelixVrobles/Sistema-Legal-showcase)
 
 </td>
 <td width="50%" valign="top">
@@ -104,39 +126,13 @@ Gestión de expedientes **white-label** para múltiples clientes desde una misma
 
 <kbd>Next.js</kbd> <kbd>Prisma</kbd> <kbd>Docker</kbd>
 
-[Showcase →](https://github.com/AngelixVrobles/Expedientes-showcase)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AlexYah Transportation
-
-Sitio corporativo + reclutamiento de conductores con panel de administración.
-
-**Por qué importa** — Resuelve un flujo de negocio completo: captar conductores y gestionarlos desde un mismo backend.
-
-<kbd>Node.js</kbd> <kbd>Express</kbd>
-
-[Showcase →](https://github.com/AngelixVrobles/AlexYah-showcase)
-
-</td>
-<td width="50%" valign="top">
-
-### RegJugadores
-
-App Android nativa: registro de jugadores, partidas y logros, con un Tic-Tac-Toe integrado.
-
-**Por qué importa** — Móvil nativo de punta a punta con persistencia local; el mismo rigor de producto, en Android.
-
-<kbd>Kotlin</kbd> <kbd>Jetpack Compose</kbd> <kbd>Room</kbd>
-
-[Código →](https://github.com/AngelixVrobles/RegJugadores)
+[Showcase&nbsp;→](https://github.com/AngelixVrobles/Expedientes-showcase)
 
 </td>
 </tr>
 </table>
+
+<sub>También: <b>RegJugadores</b>, app Android nativa con Kotlin, Jetpack Compose y Room · <a href="https://github.com/AngelixVrobles/RegJugadores">Código →</a></sub>
 
 <br>
 

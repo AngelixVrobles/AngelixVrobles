@@ -67,7 +67,7 @@
       <text class="role" x="358" y="186" fill="#5e86b5" font-size="19">&#183;  Web &#183; M&#243;vil &#183; Escritorio</text>
     </g>
 
-    <text class="meta rise d4" x="66" y="222" fill="#7f93a8" font-size="14.5">Software en producci&#243;n para clientes en legal-tech, fintech y agro.</text>
+    <text class="meta rise d4" x="66" y="222" fill="#7f93a8" font-size="14.5">Software en producci&#243;n para clientes en legal-tech, fintech, agro y construcci&#243;n.</text>
 
     <g transform="translate(66 252)">
       <g class="chip c1"><rect x="0" y="0" width="92" height="30" rx="8" fill="#0f2438" stroke="#1d3a5a"/><text class="pill" x="46" y="20" text-anchor="middle" fill="#9bb6d6" font-size="12.5">React 19</text></g>
