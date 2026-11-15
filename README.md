@@ -35,9 +35,9 @@ VAULT  AviControl  Facturas  JK-APEX  AlexYah  Sistema-Legal  Expedientes
 
 Aplicación de **escritorio** para gestión patrimonial integral: inversiones (EE.UU. y RD), certificados, bonos, inmuebles, fincas/agrícola y flujo de caja en un solo lugar.
 
-**Por qué importa** — Datos 100 % locales en SQLite, privados por diseño, con alertas y notificaciones nativas. Sin nube, sin terceros: el patrimonio del cliente nunca sale de su máquina.
+**Por qué importa** — Todo local y cifrado: base de datos con SQLCipher, adjuntos con AES-256-GCM y la clave maestra en el Llavero de macOS. Sin nube ni terceros: el patrimonio del cliente nunca sale de su máquina.
 
-<kbd>Tauri 2</kbd> <kbd>React 19</kbd> <kbd>Rust</kbd> <kbd>TypeScript</kbd> <kbd>SQLite</kbd> <kbd>Tailwind v4</kbd>
+<kbd>Tauri 2</kbd> <kbd>React 19</kbd> <kbd>Rust</kbd> <kbd>TypeScript</kbd> <kbd>SQLCipher</kbd> <kbd>Tailwind v4</kbd>
 
 Código privado (cliente) · **[Vitrina pública&nbsp;→](https://github.com/AngelixVrobles/Finanzas-showcase)**
 
