@@ -51,7 +51,7 @@ Código privado (cliente) · **[Vitrina pública&nbsp;→](https://github.com/An
 
 ### AviControl&nbsp;&nbsp;<img src="https://img.shields.io/badge/EN_VIVO-1f8f5f?style=flat-square&labelColor=0d1b2a&logoColor=white" alt="App en vivo">
 
-PWA **local-first** de gestión avícola: lotes de engorde y ponedoras, conversión alimenticia, % de postura, curvas contra el estándar de la raza, alertas y proyección de venta.
+PWA **local-first** para engordadores de pollo **Cobb 500**: registro diario, muestreo de peso, conversión alimenticia, precio mínimo de venta y el mejor día para vender, con la cuenta de cada socio.
 
 **Por qué importa** — Código público y app instalable que funciona 100 % sin internet: los datos viven en el teléfono del productor.
 
